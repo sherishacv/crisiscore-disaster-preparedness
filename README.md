@@ -160,12 +160,6 @@ This project supports:
 
 ---
 
-## Team Members
-
-- Aastha Karn
-- Mounika B M
-- Sherisha C V
-- Vangireddy Anuthya
 
 ### Guide
 
